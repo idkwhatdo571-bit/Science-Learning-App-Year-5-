@@ -1,0 +1,6 @@
+{
+  "name": "Science Year 5",
+  "description": "Interactive, gamified Science learning app for primary school students, following the Malaysian KSSR Semakan Year 5 syllabus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

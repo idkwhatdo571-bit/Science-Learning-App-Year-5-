@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Orbit Path 1 (Neon Cyan) -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 33,63 C 25,58 29,48 40,41 C 51,34 71,30 79,35 C 87,40 83,50 72,57 C 61,64 41,68 33,63 Z" />
+
+    <!-- Glowing Orbit Path 2 (Neon Cyan) -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 33,45 C 29,38 41,32 54,35 C 67,38 79,48 75,55 C 71,62 59,68 46,65 C 33,62 37,52 33,45 Z" />
+
+    <!-- Electron Particles / Small Celestial Orbs -->
+    <path
+        android:fillColor="#FFFFEA00"
+        android:pathData="M27,54m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+    <path
+        android:fillColor="#FFFFEAAA"
+        android:pathData="M81,42m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M52,31m-1.8,0a1.8,1.8 0,1 1,3.6 0a1.8,1.8 0,1 1,-3.6 0" />
+
+    <!-- Centerpiece Science Beaker Energy Core -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#2500E5FF"
+        android:pathData="M 48,39 L 60,39 M 54,39 L 54,45 M 48,46 L 60,46 M 52,46 L 41,65 C 39,69 42,73 47,73 L 61,73 C 66,73 69,69 67,65 L 56,46" />
+
+    <!-- Liquid energy sparkles / reaction bubbles inside beaker -->
+    <path
+        android:fillColor="#FFFFEA00"
+        android:pathData="M48,65m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-2 0" />
+    <path
+        android:fillColor="#FFFFEA00"
+        android:pathData="M58,62m-1.5,0a1.5,1.5 0,1 1,3 0a1.5,1.5 0,1 1,-3 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,68m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+        
+    <!-- High-Contrast Shimmer Sparkles outside orbiting structures -->
+    <path
+        android:fillColor="#FFFFEA00"
+        android:pathData="M24,30 L26,32 L24,34 L22,32 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M84,72 L86,74 L84,76 L82,74 Z" />
+</vector>
